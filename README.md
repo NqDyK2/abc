@@ -8,4 +8,4 @@ Trainnig GitHub
 
 3. Thêm members trong team vào responsitories để cùng nhau chỉnh sửa code
 
-Duy đang sửa code tại nhánh khác (next-main)
+4. Flow Github.
