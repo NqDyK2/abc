@@ -7,3 +7,5 @@ Trainnig GitHub
 2. Cách thứ 2: Github tool bên tay trái.
 
 3. Thêm members trong team vào responsitories để cùng nhau chỉnh sửa code
+
+4. Flow Github.
